@@ -7,8 +7,8 @@
         {
             "type": "node",
             "request": "launch",
-            "name": "Launch Program",
-            "preLaunchTask": "npm: build",
+            "name": "Launch Program",
+            "preLaunchTask": "npm: build",
             "program": "${workspaceFolder}\\packages\\node_modules\\node-red\\red.js",
             "env": {
                 "NODE_ENV": "development"
