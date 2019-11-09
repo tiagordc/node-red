@@ -25,3 +25,4 @@ docs
 
 .favorites.json
 package-lock.json
+/.vscode
